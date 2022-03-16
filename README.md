@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://www.souvikbiswas.com"><img src="https://github.com/sbis04/sbis04/raw/master/images/github_profile_banner.png" alt="Header" /></a>
+  <a href="kushalkulle.github.io"><img src="./logo.png" alt="Header" /></a>
 </p>
 
 <!-- **kushalkulle/kushalkulle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
